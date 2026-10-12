@@ -49,4 +49,5 @@
   <channel site="gatotv.com" site_id="distrito_comedia" lang="es" xmltv_id="DistritoComedia.mx@SD">Canal Distrito Comedia</channel>
   <channel site="directv.com" site_id="5b4cf873-77d4-41e0-8641-6bd7c852399b" lang="en" xmltv_id="DiscoveryFamilia.us@SD">Discovery Familia (103A)</channel>
   <channel site="orangetv.orange.es" site_id="11282" lang="es" xmltv_id="AMCLiving.es@SD">AMC Living</channel>
+  <channel site="mi.tv" site_id="ar#hgtv" lang="es" xmltv_id="HGTVLatinAmerica.us@Panregional">HGTV</channel>
 </channels>
