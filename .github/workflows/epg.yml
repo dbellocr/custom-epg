@@ -49,6 +49,7 @@ jobs:
           npm run grab ---
           --channels=../custom.channels.xml
           --output=../public/guide.xml
+          --days=7
         working-directory: epg
 
       - name: Configurar GitHub Pages
