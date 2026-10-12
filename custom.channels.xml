@@ -12,7 +12,7 @@
   <channel site="gatotv.com" site_id="de_las_estrellas_mexico" lang="es" xmltv_id="LasEstrellas.mx@SD">Canal 2 de México (Canal Las Estrellas - XEW)</channel>
   <channel site="gatotv.com" site_id="azteca_uno" lang="es" xmltv_id="AztecaUno.mx@SD">Canal Azteca Uno</channel>
   <channel site="gatotv.com" site_id="elgourmet" lang="es" xmltv_id="ElGourmet.cr">Canal Elgourmet</channel>
-  <channel site="tvguide.com" site_id="9200000867" lang="es" xmltv_id="Univision.us@East">Univision</channel>
+  <channel site="gatotv.com" site_id="univision_latinoamerica" lang="es" xmltv_id="">Canal Univisión (Latinoamérica)</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
   <channel site="gatotv.com" site_id="discovery_home_and_health_mexico" lang="es" xmltv_id="DiscoveryHomeHealthLatinAmerica.mx@Mexico">Canal Discovery Home &amp; Health (México)</channel>
   <channel site="gatotv.com" site_id="hola_tv" lang="es" xmltv_id="HolaTV.us@SD">Canal ¡HOLA! TV</channel>
