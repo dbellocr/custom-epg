@@ -1,0 +1,63 @@
+
+name: Actualizar EPG
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  generar-y-publicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar mi configuracion
+        uses: actions/checkout@v4
+
+      - name: Descargar iptv-org/epg
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          ref: master
+          path: epg
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: epg/package-lock.json
+
+      - name: Instalar dependencias
+        run: npm ci
+        working-directory: epg
+
+      - name: Preparar salida
+        run: mkdir -p public
+
+      - name: Generar guia XMLTV
+        run: >
+          npm run grab ---
+          --channels=../custom.channels.xml
+          --output=../public/guide.xml
+        working-directory: epg
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Preparar archivos para publicar
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Publicar EPG
+        uses: actions/deploy-pages@v4
