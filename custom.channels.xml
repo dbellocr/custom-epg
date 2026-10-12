@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="gatotv.com" site_id="6_de_costa_rica" lang="es" xmltv_id="Canal6.cr@SD">Canal 6 de Costa Rica</channel>
+  <channel site="gatotv.com" site_id="7_de_costa_rica_teletica" lang="es" xmltv_id="Teletica7.cr@SD">Canal 7 de Costa Rica (Teletica)</channel>
+  <channel site="gatotv.com" site_id="multimedios_costa_rica" lang="es" xmltv_id="Canal8.cr@SD">Canal Multimedios (Costa Rica)</channel>
+  <channel site="gatotv.com" site_id="11_de_costa_rica" lang="es" xmltv_id="Canal11.cr@SD">Canal 11 de Costa Rica</channel>
+  <channel site="gatotv.com" site_id="canal_cocina" lang="es" xmltv_id="CanalCocina.es@SD">Canal Cocina</channel>
+  <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="TVEInternacionalAmerica.es@SD">Canal TVE Internacional (Televisión Española)</channel>
+  <channel site="gatotv.com" site_id="extra_tv_42_de_costa_rica" lang="es" xmltv_id="ExtraTV42.cr@SD">Canal Extra TV 42 de Costa Rica</channel>
+  <channel site="gatotv.com" site_id="futv" lang="es" xmltv_id="FUTV.cr@SD">Canal FUTV</channel>
+  <channel site="gatotv.com" site_id="13_de_costa_rica" lang="es" xmltv_id="Canal13.cr@SD">Canal 13 de Costa Rica</channel>
+  <channel site="gatotv.com" site_id="de_las_estrellas_mexico" lang="es" xmltv_id="LasEstrellas.mx@SD">Canal 2 de México (Canal Las Estrellas - XEW)</channel>
+  <channel site="gatotv.com" site_id="azteca_uno" lang="es" xmltv_id="AztecaUno.mx@SD">Canal Azteca Uno</channel>
+  <channel site="gatotv.com" site_id="elgourmet" lang="es" xmltv_id="ElGourmet.cr">Canal Elgourmet</channel>
+  <channel site="tvguide.com" site_id="9200000867" lang="es" xmltv_id="Univision.us@East">Univision</channel>
+  <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
+  <channel site="gatotv.com" site_id="discovery_home_and_health_mexico" lang="es" xmltv_id="DiscoveryHomeHealthLatinAmerica.mx@Mexico">Canal Discovery Home &amp; Health (México)</channel>
+  <channel site="gatotv.com" site_id="hola_tv" lang="es" xmltv_id="HolaTV.us@SD">Canal ¡HOLA! TV</channel>
+  <channel site="gatotv.com" site_id="discovery_channel_mexico" lang="es" xmltv_id="DiscoveryChannelLatinAmerica.us@Mexico">Canal Discovery Channel (México)</channel>
+  <channel site="gatotv.com" site_id="discovery_world_latinoamerica" lang="es" xmltv_id="DiscoveryWorld.us@LatinAmerica">Canal Discovery World Latinoamérica</channel>
+  <channel site="gatotv.com" site_id="enlace" lang="es" xmltv_id="Enlace">Canal Enlace (TBN)</channel>
+  <channel site="gatotv.com" site_id="ejtv" lang="es" xmltv_id="EJTV">Canal Enlace Juvenil (EJTV)</channel>
+  <channel site="gatotv.com" site_id="hbo_mexico" lang="es" xmltv_id="HBO.Mx@HD">Canal HBO (México)</channel>
+  <channel site="gatotv.com" site_id="national_geographic_panregional" lang="es" xmltv_id="NatGeo.MX">Canal National Geographic (Panregional)</channel>
+  <channel site="gatotv.com" site_id="tnt_costa_rica" lang="es" xmltv_id="TNT.cr@SD">Canal TNT (Costa Rica)</channel>
+  <channel site="gatotv.com" site_id="animal_planet_mexico" lang="es" xmltv_id="AnimalPlanet.mx@SD">Canal Animal Planet (México)</channel>
+  <channel site="gatotv.com" site_id="hbo_family_latinoamerica" lang="es" xmltv_id="HBOFamilyLatinAmerica.us@SD">Canal HBO Family Latinoamérica</channel>
+  <channel site="gatotv.com" site_id="axn_mexico" lang="es" xmltv_id="AXNLatinAmerica.us@Mexico">Canal AXN (México)</channel>
+  <channel site="gatotv.com" site_id="universal_tv_mexico" lang="es" xmltv_id="UniversalTVLatinAmerica.us@Mexico">Canal Universal TV (México)</channel>
+  <channel site="gatotv.com" site_id="fox_costa_rica" lang="es" xmltv_id="Fox.cr@SD">Canal Fox (Costa Rica)</channel>
+  <channel site="gatotv.com" site_id="golden_costa_rica" lang="es" xmltv_id="Golden.cr@SD">Canal Golden (Costa Rica)</channel>
+  <channel site="gatotv.com" site_id="tudn_mexico" lang="es" xmltv_id="TUDN.mx@SD">Canal TUDN (México)</channel>
+  <channel site="gatotv.com" site_id="space_mexico" lang="es" xmltv_id="Space.ar@Mexico">Canal Space (México)</channel>
+  <channel site="gatotv.com" site_id="e_entertainment_television_costa_rica" lang="es" xmltv_id="EEntertainmentTelevision.cr@SD">Canal E! Entertainment Television (Costa Rica)</channel>
+  <channel site="gatotv.com" site_id="la_1" lang="es" xmltv_id="La1.es@SD">Canal La 1</channel>
+  <channel site="gatotv.com" site_id="la_2" lang="es" xmltv_id="La2.es@SD">Canal La 2</channel>
+  <channel site="gatotv.com" site_id="hbo_2_latinoamerica" lang="es" xmltv_id="HBO2LatinAmerica.us@SD">Canal HBO 2 Latinoamérica</channel>
+  <channel site="gatotv.com" site_id="lifetime_mexico" lang="es" xmltv_id="LifetimeLatinAmerica.us@Mexico">Canal Lifetime (México)</channel>
+  <channel site="gatotv.com" site_id="cnn_en_espanol" lang="es" xmltv_id="CNNenEspanol.us@SD">Canal CNN en Español</channel>
+  <channel site="gatotv.com" site_id="antena_3_espana" lang="es" xmltv_id="Antena3.es@National">Canal Antena 3 de España</channel>
+  <channel site="gatotv.com" site_id="star_channel_mexico" lang="es" xmltv_id="StarChannel.mx@SD">Canal Star Channel (México)</channel>
+  <channel site="gatotv.com" site_id="cinecanal_costa_rica" lang="es" xmltv_id="Cinecanal.cr@SD">Canal Cinecanal (Costa Rica)</channel>
+  <channel site="gatotv.com" site_id="comedy_central_mexico" lang="es" xmltv_id="ComedyCentral.mx@SD">Canal Comedy Central (México)</channel>
+  <channel site="gatotv.com" site_id="dw_latinoamerica" lang="es" xmltv_id="DW.us@LatinAmerica">Canal DW (Latinoamérica)</channel>
+  <channel site="gatotv.com" site_id="tlc_mexico" lang="es" xmltv_id="TLCLatinAmerica.us@Mexico">Canal TLC (México)</channel>
+  <channel site="gatotv.com" site_id="history_mexico" lang="es" xmltv_id="History.mx@SD">Canal History (México)</channel>
+  <channel site="gatotv.com" site_id="clic" lang="es" xmltv_id="Clic.es@SD">Canal Clic</channel>
+  <channel site="gatotv.com" site_id="hbo_mundi" lang="es" xmltv_id="HBOMundiLatinAmerica.us@SD">Canal HBO Mundi</channel>
+  <channel site="gatotv.com" site_id="distrito_comedia" lang="es" xmltv_id="DistritoComedia.mx@SD">Canal Distrito Comedia</channel>
+  <channel site="directv.com" site_id="5b4cf873-77d4-41e0-8641-6bd7c852399b" lang="en" xmltv_id="DiscoveryFamilia.us@SD">Discovery Familia (103A)</channel>
+  <channel site="orangetv.orange.es" site_id="11282" lang="es" xmltv_id="AMCLiving.es@SD">AMC Living</channel>
+</channels>
